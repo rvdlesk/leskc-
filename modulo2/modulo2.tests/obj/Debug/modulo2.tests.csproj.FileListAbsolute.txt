@@ -1,0 +1,8 @@
+C:\Users\rvalencio\Documents\Visual Studio 2015\Projects\cursoPSth\modulo2\modulo2.tests\bin\Debug\modulo2.tests.dll
+C:\Users\rvalencio\Documents\Visual Studio 2015\Projects\cursoPSth\modulo2\modulo2.tests\bin\Debug\modulo2.tests.pdb
+C:\Users\rvalencio\Documents\Visual Studio 2015\Projects\cursoPSth\modulo2\modulo2.tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\rvalencio\Documents\Visual Studio 2015\Projects\cursoPSth\modulo2\modulo2.tests\bin\Debug\modulo2.exe
+C:\Users\rvalencio\Documents\Visual Studio 2015\Projects\cursoPSth\modulo2\modulo2.tests\bin\Debug\modulo2.pdb
+C:\Users\rvalencio\Documents\Visual Studio 2015\Projects\cursoPSth\modulo2\modulo2.tests\obj\Debug\modulo2.tests.csprojResolveAssemblyReference.cache
+C:\Users\rvalencio\Documents\Visual Studio 2015\Projects\cursoPSth\modulo2\modulo2.tests\obj\Debug\modulo2.tests.dll
+C:\Users\rvalencio\Documents\Visual Studio 2015\Projects\cursoPSth\modulo2\modulo2.tests\obj\Debug\modulo2.tests.pdb

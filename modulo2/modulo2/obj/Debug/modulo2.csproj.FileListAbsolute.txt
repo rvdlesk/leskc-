@@ -1,0 +1,6 @@
+C:\Users\rvalencio\Documents\Visual Studio 2015\Projects\cursoPSth\modulo2\modulo2\bin\Debug\modulo2.exe.config
+C:\Users\rvalencio\Documents\Visual Studio 2015\Projects\cursoPSth\modulo2\modulo2\bin\Debug\modulo2.exe
+C:\Users\rvalencio\Documents\Visual Studio 2015\Projects\cursoPSth\modulo2\modulo2\bin\Debug\modulo2.pdb
+C:\Users\rvalencio\Documents\Visual Studio 2015\Projects\cursoPSth\modulo2\modulo2\obj\Debug\modulo2.exe
+C:\Users\rvalencio\Documents\Visual Studio 2015\Projects\cursoPSth\modulo2\modulo2\obj\Debug\modulo2.pdb
+C:\Users\rvalencio\Documents\Visual Studio 2015\Projects\cursoPSth\modulo2\modulo2\obj\Debug\modulo2.csprojResolveAssemblyReference.cache
